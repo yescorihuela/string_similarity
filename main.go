@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/yescorihuela/similarity/string_similarity"
+	"github.com/yescorihuela/string_similarity/string_similarity"
 )
 
 func main() {
