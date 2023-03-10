@@ -1,4 +1,4 @@
-module github.com/yescorihuela/similarity
+module github.com/yescorihuela/string_similarity
 
 go 1.18
 
